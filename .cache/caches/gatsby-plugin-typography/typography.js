@@ -1,0 +1,1 @@
+module.exports = require("/Users/anna/Develop/gatsby-starter-blog-oekraine/src/utils/typography")
